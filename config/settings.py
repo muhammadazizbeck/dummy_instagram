@@ -33,6 +33,7 @@ INSTALLED_APPS = [
     #external
     'rest_framework',
     'decouple',
+    'rest_framework_simplejwt',
 ]
 
 MIDDLEWARE = [
